@@ -22,7 +22,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/hanan267/QR-Codes)
+- Solution URL: [Add solution URL here](https://github.com/hanan267/QR-Code)
 
 
 ## My Process
